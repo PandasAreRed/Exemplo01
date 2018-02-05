@@ -22,6 +22,15 @@ public class Main {
       int c;
       System.out.println(l);
       s = l.resumo();
+      /*
+      
+      Um comentário qualquer......
+      e mais um...
+      e mais outro...
+      
+      --Pandas are Red--
+      
+      */
       c = carateres(s);
       System.out.println(c);
    }

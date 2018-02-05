@@ -31,6 +31,7 @@ public class Main {
       --Pandas are Red--
       
       */
+      System.out.println(s);
       c = carateres(s);
       System.out.println(c);
    }
